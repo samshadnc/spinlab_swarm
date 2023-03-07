@@ -1,0 +1,3 @@
+make[2]: *** No rule to make target '/home/spin/catkin_ws/src/mavlink/message_definitions/v1.0/storm32.xml', needed by 'include/v1.0/storm32/storm32.h'.  Stop.
+make[1]: *** [CMakeFiles/Makefile2:153: CMakeFiles/storm32.xml-v1.0.dir/all] Error 2
+make: *** [Makefile:118: all] Error 2

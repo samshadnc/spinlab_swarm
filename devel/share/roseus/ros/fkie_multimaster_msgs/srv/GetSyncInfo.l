@@ -1,0 +1,1 @@
+/home/spin/catkin_ws/devel/.private/fkie_multimaster_msgs/share/roseus/ros/fkie_multimaster_msgs/srv/GetSyncInfo.l

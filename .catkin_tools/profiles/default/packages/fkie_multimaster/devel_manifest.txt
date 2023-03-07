@@ -1,0 +1,2 @@
+multimaster/fkie_multimaster
+/home/spin/catkin_ws/devel/.private/fkie_multimaster/cmake.lock /home/spin/catkin_ws/devel/./cmake.lock

@@ -1,0 +1,24 @@
+[  1%] [34m[1mCreate '__init__.py' for generated gRPC module[0m
+[ 25%] Built target fkie_multimaster_msgs_GRPC
+[ 25%] Built target std_msgs_generate_messages_lisp
+[ 25%] Built target _fkie_multimaster_msgs_generate_messages_check_deps_LoadLaunch
+[ 25%] Built target _fkie_multimaster_msgs_generate_messages_check_deps_LinkState
+[ 25%] Built target _fkie_multimaster_msgs_generate_messages_check_deps_LinkStatesStamped
+[ 25%] Built target _fkie_multimaster_msgs_generate_messages_check_deps_MasterState
+[ 25%] Built target _fkie_multimaster_msgs_generate_messages_check_deps_Task
+[ 25%] Built target _fkie_multimaster_msgs_generate_messages_check_deps_SyncMasterInfo
+[ 25%] Built target _fkie_multimaster_msgs_generate_messages_check_deps_SyncServiceInfo
+[ 25%] Built target _fkie_multimaster_msgs_generate_messages_check_deps_SyncTopicInfo
+[ 25%] Built target _fkie_multimaster_msgs_generate_messages_check_deps_DiscoverMasters
+[ 25%] Built target std_msgs_generate_messages_py
+[ 25%] Built target _fkie_multimaster_msgs_generate_messages_check_deps_GetSyncInfo
+[ 25%] Built target std_msgs_generate_messages_eus
+[ 25%] Built target std_msgs_generate_messages_nodejs
+[ 25%] Built target std_msgs_generate_messages_cpp
+[ 25%] Built target _fkie_multimaster_msgs_generate_messages_check_deps_ROSMaster
+[ 39%] Built target fkie_multimaster_msgs_generate_messages_lisp
+[ 56%] Built target fkie_multimaster_msgs_generate_messages_py
+[ 71%] Built target fkie_multimaster_msgs_generate_messages_eus
+[ 85%] Built target fkie_multimaster_msgs_generate_messages_nodejs
+[100%] Built target fkie_multimaster_msgs_generate_messages_cpp
+[100%] Built target fkie_multimaster_msgs_generate_messages
